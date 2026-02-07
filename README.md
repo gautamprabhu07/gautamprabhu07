@@ -24,13 +24,10 @@
   <a href="mailto:gautamprabhumit@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/gautamprabhu24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
   <!-- Optional: Add your portfolio website -->
-  <!-- <a href="https://yourportfolio.com">
+  <a href="https://gautamprabhu.dev">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a> -->
+  </a> 
 </p>
 
 <div align="center">
